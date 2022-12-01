@@ -1,1 +1,1 @@
-this is shell basic command
+this project, describing what each script is doing
